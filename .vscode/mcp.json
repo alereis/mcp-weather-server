@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "mcp-weather-server": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+                "-y",
+                "tsx",
+                "/Users/alessandroreis/Documents/AI Projects/mcp-weather-server/main.ts"
+            ]
+        }
+    }
+}
